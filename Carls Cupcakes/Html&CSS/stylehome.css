@@ -1,0 +1,9 @@
+body {
+	background: white;
+	margin: 0;
+}
+
+#grad {
+	background: linear-gradient(  #f1b4ba, white);
+	
+}
