@@ -2,9 +2,9 @@ body {
 	background: white;
 	margin: 0;
 }
-
 #grad {
 	background: linear-gradient(  #f1b4ba, white);
+	
 }
 ul{
 	color: White;
@@ -31,6 +31,9 @@ h1 {
 }
 #logo{
 	width: 7%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 #rasberry{
 	width: 20%;
@@ -44,12 +47,40 @@ h1 {
 	width: 27%;
 	padding-left: 20px;
 }
-#magnifying {
-	width: 3%
-}
 p {
 	font-family: "DK Jambo";
 	background: white;
 	color: Silver;
 	background-position: left top;
+}
+#searchbar{
+		position: relative;
+		top: -83px;
+		left: 38px;
+}
+.textbox{
+		margin: 0;
+		padding: 5px 15px;
+		font-family: DK Jambo;
+		font-size:14px;
+		border:1px solid white; border-right:0px;
+		border-top-left-radius: 5px 5px;
+		border-bottom-left-radius: 5px 5px;
+}
+.button {
+		margin: 0;
+		padding: 5px 15px;
+		font-family: DK Jambo;
+		font-size:14px;
+		outline: none;
+		cursor: pointer;
+		text-align: center;
+		text-decoration: none;
+		color: White;
+		border:1px gray ; border-right:0px;
+		background: #00bff3;
+		background:;
+		background:;
+		border-top-right-radius: 5px 5px;
+		border-bottom-right-radius: 5px 5px;
 }
