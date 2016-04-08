@@ -31,13 +31,24 @@ h1 {
 }
 #logo{
 	width: 7%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 #magnifying {
 	width: 3%
 }
+#peacock {
+	width: 10%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 p {
 	font-family: "DK Jambo";
-	background: white;
 	color: Silver;
-	background-position: left top;
+	font-size: 20px;
+	text-align: Center;
+	padding-left: 299px;
+	padding-right: 299px;
 }
