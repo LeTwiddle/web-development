@@ -1,0 +1,33 @@
+body {
+	background: white;
+	margin: 0;
+}
+#grad {
+	background: linear-gradient(  #f1b4ba, white);
+	
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+h1 {
+	font-family: "DK Jambo";
+	text-align: center;
+	color: #ec008c;
+}
+#logo{
+	width: 7%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+p {
+	text-align: center;
+	font-family: "DK Jambo";
+	color: Black;
+}
+form{
+	text-align: center;
+	font-family: "DK Jambo";
+	color: black;
+}
